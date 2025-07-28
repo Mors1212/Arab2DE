@@ -28,8 +28,11 @@ A responsive, bilingual landing page for **Arab2DE** – a platform that helps A
 ---
 
 ## How to Run
+There are two ways
+1.1 Clone or download the project folder
+1.2 Open `index.html` or `index-ar.html` in your browser
+2. https://mors1212.github.io/Arab2DE/
 
-Open `index-en.html` or `index-ar.html` in your browser
 > No build tools or dependencies required.
 
 ---
